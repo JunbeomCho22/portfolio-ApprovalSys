@@ -19,7 +19,8 @@
 <br>
 
 ## **📝 개요**
-<br>![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/56588de0-1e8f-492f-8d02-8b19e66b24f9)
+<br>![1](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/aacd0904-33e3-4163-848b-d8cac406c50a)
+
 
 > **프로젝트**: 전자결재
 >
@@ -54,7 +55,8 @@
 ### 1. 로그인 페이지 구현
 <br>
 
-![login](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/4240e2aa-5f17-4664-8c69-7b529bbb8f02)<br/>
+![2](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/1262d73f-0dc1-4e6b-b5de-04c84f7b49e7)<br/>
+
 
 - 기존에 사용하던 Office 365 계정과 동일한 계정으로 로그인
 
@@ -63,7 +65,8 @@
 ### 2. 문서결재 요청 구현
 <br>
 
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/a140b288-552d-4c43-9191-202b9c2e844f)<br/>
+![3](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/3edb91ac-9eb2-4fec-b493-20fdafee23a0)<br/>
+
 
 - 가장 기본적인 기안 양식을 HTML로 구현
 <br/>
@@ -72,7 +75,8 @@
   <details>
   <summary> DatePicker </summary>
 
-  ![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/90494b23-702c-496b-acb0-e4d8115df155)<br/>
+  ![4](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/e80c38d4-161b-454d-bace-f3c797220b08)<br/>
+
 
   - Bootstrap 기능인 DatePicker 사용
   </details><br>
@@ -81,7 +85,8 @@
   <details>
   <summary> 결재선 </summary>
     
-  ![orgtree](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/85240574-dc0e-4169-910b-885e5715a24b)<br/>
+  ![5](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/691e139f-9ca4-4948-a454-2d633c913241)<br/>
+
 
   - <결재선 지정> 버튼 클릭 시 새창으로 결재선 지정 창 구현
   - 결재선 지정 시, 각각 결재자, 참조자 이름 문서에 자동 기입 구현
@@ -92,7 +97,8 @@
   <details>
   <summary> 파일 업로드 </summary>
 
-  ![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/c61df01d-d058-460a-8cb0-bb2ba001e0d2)<br/>
+  ![6](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/9a32ab09-5c2c-4ce9-96c5-78cc4197f671)<br/>
+
 
   - 로컬 파일을 업로드하여 첨부파일 기능 구현
   - 여러개의 파일 동시에 업로드 기능 구현
@@ -104,7 +110,8 @@
 
 <br>
   
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/fcaacf44-91ab-4730-a0b1-1311bf7bb12c)![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/97ccc755-31fe-4529-b59e-a3cde0896e8e)<br/>
+![7](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/29c2a444-aaa8-4f56-8c05-f7599200115d)![8](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/cd7de8f3-ca8d-4ec4-8840-87f0975bdbde)
+<br/>
 
 - 사내 메신저 (MS Teams)로 결재진행 및 참조 알림 기능 구현
 
@@ -112,11 +119,11 @@
 
 <br>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/5d650380-cdc1-42ad-a265-452a5df721cb)
+![9](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/2c2250b9-0c6a-4989-bad1-54e26e43bc97)
 
 <br>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/6a0ad7cb-7373-430c-8666-89fa84ca7196)
+![10](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/ddd1d471-f1a1-42c8-b9fc-7cbd17d60cee)
 
 - 흐름봇을 통한 결재사항 및 URL 알림 구현
 - 전자결재 앱의 문서 Detail 에서 승인 및 반려 처리 구현
@@ -128,7 +135,7 @@
 ### 4. 결재 문서 열람
 <br>
 
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/bee1fd97-3034-4d58-b1b7-c6b5c3aec9de)<br/>
+![11](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/f1649b6d-7daa-4c0c-8619-33019b8acdbb)<br/>
 
 - 기안자 열 값이 현재 로그인 중인 유저의 계정 값과 일치하는 문서들만 출력
 <br>
@@ -137,7 +144,8 @@
 <details>
 <summary> 문서 상세보기 </summary>
 
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/e5f56e31-95a6-4519-9c52-91156a9ceab0)<br/>
+![12](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/3e02a7b0-f602-48ae-be76-6941818697e4)<br/>
+
 
 - 작성된 문서 열람 및 결재 진행 상황 확인 가능
 </details><br>
@@ -146,7 +154,8 @@
 <details>
 <summary> 프린트 </summary>
 
-![print](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/c4a7fc70-cf20-45a6-8222-1ca44e944349)<br/>
+![13](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/d6016e53-8ff9-4efa-88d4-7b88fcbc3bc1)<br/>
+
 
 - 프린트 버튼으로 필요한 양식만 출력 기능 구현
 </details><br>
@@ -155,7 +164,8 @@
 <details>
 <summary> 첨부파일 </summary>
 
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/7ecb5e39-1b13-4bd1-99d1-2ad0381319ea)<br/>
+![14](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/dab8b071-b8ec-4cf6-a717-875a8494f419)<br/>
+
 
 - 문서 하단 업로드된 첨부파일 열기 || 저장 기능 구현
 </details><br>
@@ -169,14 +179,16 @@
 - ### 문서번호 자동생성 및 적용
   
 예) CJH-<기안일><0001~9999>
-  
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/a7a72d7e-2ab8-4ee1-b1eb-dac98b9f084e)
+
+![15](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/5ef7f951-9be0-46af-9ca0-248b1268a49c)
+
 
 - ### 결재 현황판
 
 메인 페이지에 결재현황 생성
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/79fd0607-c06b-47f9-aae4-1c46fa471cd0)
+![16](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/ad3cbf65-a1f2-4a84-8e81-b14dd17b012f)
+
 
 </details>
 <br>
@@ -190,12 +202,12 @@
 결재선 지정 내, 전결 체크박스 체크 시 전결처리 구현
 
 <br/>
-  
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/558af9e2-6a11-4502-8b6d-7435168f86f6)
+
+![17](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/a90359fc-5488-4b51-a4df-dfe91f20f97f)
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/1a0f9dd2-9204-4500-9caf-cfbf5bc1d425)
+![18](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/521740d6-0fcc-4f42-a45d-d0d66ac294a3)
 
 <br/>
 
@@ -205,7 +217,8 @@
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/e500dbc9-ce60-4ad1-ad76-50d49d2c0e5e)
+![19](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/2db17af2-170b-4936-aa97-37b5a64b165f)
+
 
 
 - ### PowerAutomate 흐름 간소화 작업
@@ -216,7 +229,8 @@
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/0c06fff8-20fe-4532-bf18-8b6400722ca2)
+![20](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/30639bde-156b-4386-927e-bed836a02a80)
+
 
 <br/>
 
@@ -224,7 +238,8 @@
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/7bbf10ec-38e5-4d0f-a3e3-c93d7eeebd86)
+![21](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/ddc37407-b5fd-4972-8d32-8cd4a405bbc2)
+
 
 <br/>
 
@@ -232,7 +247,8 @@
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/d6887544-e94b-45e9-bb6f-41d382c30b2e)
+![22](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/31d9398b-92fa-4794-9343-5753707d973d)
+
 
 <br/>
 
@@ -240,7 +256,8 @@
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/750ad9aa-47cc-4650-89e0-9defee0c80f4)
+![23](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/6b8dd381-1f8a-4415-9677-83296c00150c)
+
 
 <br/>
 
@@ -250,11 +267,13 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/5d650380-cdc1-42ad-a265-452a5df721cb)
+![24](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/1c882f37-1dd7-4643-81e9-f4935fc847ee)
+
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/6a0ad7cb-7373-430c-8666-89fa84ca7196)
+![25](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/c1f45e09-4d51-4856-b1e1-e11b090ec67e)
+
 
 <br/>
 
@@ -262,7 +281,8 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/72fa605c-5490-4b1b-814f-b1fbfb2835b0)
+![26](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/9a4e98d0-2ddb-454d-a3b3-4a4972eeeea7)
+
 
 </details>
 
@@ -278,7 +298,8 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/de78f45a-af21-4d98-9354-bf71a243ac56)
+![27](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/50e0bfd8-f8ae-486e-966b-efdb5827e45f)
+
 
 <br/>
 
@@ -288,7 +309,8 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/84a05227-9a48-4300-bb78-d34d982a8f80)
+![28](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/2c6d8eb4-1bfc-4368-8608-8ce0e36026db)
+
 
 </details>
 
@@ -302,8 +324,8 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
   <details>
   <summary> 전체 로직 </summary>
   <br/>
-    
-  ![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/b63bee07-cf71-4c86-873a-4eb158fbf0cb)
+  
+  ![29](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/5afd763c-ab8c-4d88-9067-63b3ba70bfbf)
 
   </details><br>
 
@@ -311,14 +333,15 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
   - <summary> 참조 로직 </summary>
   <br/>
     
-  ![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/6e2ab02f-09c9-4b08-ad3a-2d66d0e97f5a)
+  ![30](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/e61247ee-e5a7-456e-b5a0-d04c56398b0d)
+  
   </details><br>
 
   <details>
   - <summary> 승인 로직 </summary>
   <br/>
     
-  ![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/c42cf813-474d-4741-8d9d-a52a42dbcf4d)
+  ![31](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/ef19251c-2c7b-45f7-8981-3636ff25371d)
 
   </details><br>
 </details>
@@ -326,22 +349,25 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 ### 1. [Flask전자결재] 기초 승인
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/0c06fff8-20fe-4532-bf18-8b6400722ca2)
+![32](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/316e4b5d-55f9-46a1-89ad-aa698f35401d)
+
 
 ### 2. [Flask전자결재] 결재 알림
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/7bbf10ec-38e5-4d0f-a3e3-c93d7eeebd86)
+![33](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/e86d6709-e8e1-446e-bd19-2891b3a7e8e5)
+
 
 ### 3. [Flask전자결재] 기초 결재 알림
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/d6887544-e94b-45e9-bb6f-41d382c30b2e)
+![34](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/7984bded-3456-403d-97c5-70ba4643ee77)
+
 
 ### 4. [Flask전자결재] 결재 완료 알림
 <br/>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/750ad9aa-47cc-4650-89e0-9defee0c80f4)
+![35](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/a54e040e-e971-418c-9fb0-32dd15ebf6d8)
 
 <br/>
 
@@ -350,10 +376,12 @@ Teams 메신저 내의 승인 기능을 사용하지 않고, 전자결재 앱의
 <details>
 <summary> 최초 DB설계 </summary>
 
-![image](https://github.com/JunbeomCho22/RG_Approval/assets/156159216/cd168155-c040-46d9-9774-82db873b2967)
+![36](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/db04bb82-af3f-4ae1-a394-a7f1f36d550d)
+
 </details><br>
 
-![image](https://github.com/JunbeomCho22/Radiantgrace_Approval/assets/156159216/5616b24e-c382-4fdc-b24c-ce1f84d33bb5)
+![37](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/134af058-5554-4b28-9c01-8472cb350ce6)
+
 
 
 <br />
