@@ -54,11 +54,18 @@
 
 ### 1. 로그인 페이지 구현
 <br>
+<details>
+<summary> 최초 로그인 페이지 구성 </summary>
 
 ![2](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/1262d73f-0dc1-4e6b-b5de-04c84f7b49e7)<br/>
 
+- 기존에 사용하던 Microsoft 365 계정과 동일한 계정으로 로그인
 
-- 기존에 사용하던 Office 365 계정과 동일한 계정으로 로그인
+</details><br>
+
+![print](https://github.com/JunbeomCho22/portfolio-ApprovalSys/assets/156159216/67e60233-1b62-4274-84e4-51d97dde2540)
+
+- Microsoft 365 계정을 사용하여 로그인
 
 <br/>
 
